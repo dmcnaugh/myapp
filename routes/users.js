@@ -6,5 +6,5 @@ router.get('/', function(req, res, next) {
   res.send('respond with a resource');
 });
 
-/* A New comment */
+/* A New better comment */
 module.exports = router;
